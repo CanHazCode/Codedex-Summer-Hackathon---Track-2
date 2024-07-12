@@ -2,6 +2,21 @@
 Submission for the Codedex Summer Hackathon 2024 for Track 2 Web Build
 Code I wrote in Wix 
 
+
+Project Overview
+
+The client mentioned a lemonade stand type vibe, so I went with a more hand drawn crayon style, for the childlike appeal, with a summer vibe and richer colours to give it a more mature vibe whilst still being playful. I captured all the important event details and tried to create a cohesive composition through the page with interactive elements, revealing more as you play with the page.
+
+
+    The elements around the stand are interactive. 
+    The project was made in Wix
+    Front End JS added to make the interactions and hide and unhide elements
+    Began coding the add to calendar button but did not finish this in time
+    I made a git hub but the project was made in wix. The code is in the readme cos time >.>
+
+
+This was my first hackathon and was an amazing experience. I learnt so much and can't wait for the next one! Thanks everyone <3
+
 // Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction
 
 $w.onReady(function () {
